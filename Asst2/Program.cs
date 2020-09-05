@@ -2,9 +2,9 @@
 
 namespace Asst2
 {
-    class MainClass
+    class Program
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             int acc_num = int.Parse(Console.ReadLine());
             String title = Console.ReadLine();
