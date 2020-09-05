@@ -3,7 +3,7 @@ namespace Asst2
 {
     public class Program8
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
             Rank rank = new Rank(n);
