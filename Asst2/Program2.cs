@@ -3,7 +3,7 @@ namespace Asst2
 {
     public class Program2
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             String name = Console.ReadLine();
             int id = int.Parse(Console.ReadLine());
