@@ -3,7 +3,7 @@ namespace Asst2
 {
     public class Program6
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             EmployeeX e = new EmployeeX();
             String gender = Console.ReadLine();
