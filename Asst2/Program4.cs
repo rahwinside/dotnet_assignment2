@@ -5,7 +5,7 @@ namespace Asst2
 {
     public class Program4
     {
-        public static void Main(string[] args)
+        public static void MainX(string[] args)
         {
             int p = int.Parse(Console.ReadLine());
             float y = float.Parse(Console.ReadLine());
